@@ -1,0 +1,8 @@
+1. Start
+2. declare n , i and sum as int
+3. read n
+4. for(i=1 to i<= n)
+5. sum= sum+1;
+6. compute if i<= n repeat 4 and 5
+7. print sum
+8. end
